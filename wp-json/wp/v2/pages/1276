@@ -1,0 +1,705 @@
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover00").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Dragon pass</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/14.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover10").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Zavod 311</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/15.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover20").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Dragon pass</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/14.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover30").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Zavod 311</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/15.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover01").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Monkey Island</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/2.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover11").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Monkey Island</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/2.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover21").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>The tower</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/1.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover31").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Waterworld</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/7.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover02").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>cs_assault</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/9.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover12").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_aztec</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/10.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover22").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_dust2</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/8.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover32").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_train</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/101.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover03").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Monkey Island</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/2.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover13").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Outerspace</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/3.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover23").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>The tower</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/1.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover33").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Waterworld</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/7.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover04").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Close quarters</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/12.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover14").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Close quarters</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/12.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover24").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Close quarters</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/12.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover34").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Close quarters</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/12.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover05").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>cs_assault</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/9.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover15").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_dust2</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/8.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover25").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_aztec</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/10.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover35").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_aztec</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/10.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover06").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Close quarters</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/12.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover16").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Dragon pass</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/14.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover26").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Operation locker</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/13.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover36").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Zavod 311</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/15.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover07").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Mountain pass</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/4.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover17").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Thunder storm</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/31.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover27").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>The tower</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/11.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover37").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>The coast</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/6.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover00").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Dragon pass</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/14.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover10").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Zavod 311</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/15.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover20").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Dragon pass</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/14.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover30").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Zavod 311</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/15.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover01").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Monkey Island</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/2.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover11").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Monkey Island</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/2.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover21").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>The tower</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/1.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover31").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Waterworld</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/7.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover02").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>cs_assault</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/9.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover12").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_aztec</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/10.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover22").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_dust2</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/8.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover32").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_train</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/101.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover03").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Monkey Island</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/2.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover13").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Outerspace</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/3.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover23").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>The tower</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/1.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover33").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Waterworld</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/7.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover04").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Close quarters</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/12.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover14").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Close quarters</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/12.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover24").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Close quarters</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/12.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover34").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Close quarters</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/12.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover05").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>cs_assault</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/9.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover15").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_dust2</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/8.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover25").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_aztec</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/10.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover35").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>de_aztec</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/10.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover06").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Close quarters</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/12.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover16").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Dragon pass</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/14.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover26").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Operation locker</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/13.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover36").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Zavod 311</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/15.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover07").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Mountain pass</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/4.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover17").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>Thunder storm</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/31.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover27").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>The tower</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/11.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+<script type="text/javascript">
+ jQuery(document).ready(function() {
+  jQuery("#mapspopover37").popover({
+      placement : 'top',
+      trigger: 'hover', //placement of the popover. also can use top, bottom, left or right
+      title : '<div>The coast</div>', //this is the top title bar of the popover. add some basic css
+      html: 'true', //needed to show html of course
+      content : '<img src="https://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/6.jpg" />' //this is the content of the html box. add the image here or anything you want really.
+});
+});
+</script>
+{"id":1276,"date":"2014-01-29T15:06:20","date_gmt":"2014-01-29T15:06:20","guid":{"rendered":"https:\/\/themes.themicrolex.com\/gameaddictWP\/?page_id=1276"},"modified":"2014-01-29T15:06:20","modified_gmt":"2014-01-29T15:06:20","slug":"matches","status":"publish","type":"page","link":"https:\/\/skywarriorthemes.com\/gameaddict\/matches\/","title":{"rendered":"Matches"},"content":{"rendered":"<div class=\"title-wrapper matches-page\"><h3 class=\"widget-title\">Matches<\/h3><\/div><ul class=\"clanwar-list clanwarlist-page\">    <li>\n        <ul class=\"tabs\"><li class=\"selected\"><a href=\"#all\" title=\"All\">All<\/a><\/li><li class=\"selected\"><a href=\"#game-2\" title=\"Battlefield 4\">BF4<\/a><\/li><li class=\"selected\"><a href=\"#game-1\" title=\"Counter Strike: Global Offensive\">CS:GO<\/a><\/li><li class=\"selected\"><a href=\"#game-3\" title=\"Dota 2\">Dota 2<\/a><\/li><li class=\"selected\"><a href=\"#game-4\" title=\"League of Legends\">LoL<\/a><\/li><li class=\"selected\"><a href=\"#game-5\" title=\"Street Fighter\">SF<\/a><\/li><\/ul>\n    <\/li><li  title=\"Snipers only 5v5\" class=\"clanwar-item  match even game-2 \"><div class=\"scores-wrapper\"><div class=\"upcoming\">start in 1105 days<\/div><\/div><a href=\"https:\/\/skywarriorthemes.com\/gameaddict\/matches\/snipers-only-5v5\/\" title=\"Snipers only 5v5\"><div class=\"matchimages\"><div class=\"team-img-wrapper\"><span class=\"overlay-link\"><\/span><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/Fnatic-92x92.jpg\" class=\"clan1\" alt=\"SK Gaming\"><\/div><div class=\"matchpage-versus\">VS<\/div><div class=\"team-img-wrapper\"><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/skgaming-92x92.png\" class=\"clan2\" alt=\"SK Gaming\"><\/div><\/div><\/a><div class=\"m-info\"><div class=\"match_title\">Snipers only 5v5<\/div><div class=\"date\">February 16, 2025, 2:10 am<\/div><div class=\"maplist\"><a id=\"mapspopover00\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/14.jpg#142x142\" title=\"Dragon pass\">Dragon pass<\/a>, <a id=\"mapspopover10\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/15.jpg#142x142\" title=\"Zavod 311\">Zavod 311<\/a>, <a id=\"mapspopover20\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/14.jpg#142x142\" title=\"Dragon pass\">Dragon pass<\/a>, <a id=\"mapspopover30\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/15.jpg#142x142\" title=\"Zavod 311\">Zavod 311<\/a><\/div><\/div><\/li><li  title=\"Dota 2 friendly\" class=\"clanwar-item  match odd game-3 \"><div class=\"scores-wrapper\"><div class=\"scores loose\">41:45<\/div><\/div><a href=\"https:\/\/skywarriorthemes.com\/gameaddict\/matches\/dota-2-friendly\/\" title=\"Dota 2 friendly\"><div class=\"matchimages\"><div class=\"team-img-wrapper\"><span class=\"overlay-link\"><\/span><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/Fnatic-92x92.jpg\" class=\"clan1\" alt=\"SK Gaming\"><\/div><div class=\"matchpage-versus\">VS<\/div><div class=\"team-img-wrapper\"><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/skgaming-92x92.png\" class=\"clan2\" alt=\"SK Gaming\"><\/div><\/div><\/a><div class=\"m-info\"><div class=\"match_title\">Dota 2 friendly<\/div><div class=\"date\">January 21, 2019, 1:56 am<\/div><div class=\"maplist\"><a id=\"mapspopover01\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/2.jpg#142x142\" title=\"Monkey Island\">Monkey Island<\/a>, <a id=\"mapspopover11\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/2.jpg#142x142\" title=\"Monkey Island\">Monkey Island<\/a>, <a id=\"mapspopover21\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/1.jpg#142x142\" title=\"The tower\">The tower<\/a>, <a id=\"mapspopover31\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/7.jpg#142x142\" title=\"Waterworld\">Waterworld<\/a><\/div><\/div><\/li><li  title=\"Pro league semifinal\" class=\"clanwar-item  match even game-1 \"><div class=\"scores-wrapper\"><div class=\"scores draw\">0:0<\/div><\/div><a href=\"https:\/\/skywarriorthemes.com\/gameaddict\/matches\/ggggggggggggg\/\" title=\"Pro league semifinal\"><div class=\"matchimages\"><div class=\"team-img-wrapper\"><span class=\"overlay-link\"><\/span><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/20130802064726a0djjwmz5u7mepzq1-92x92.gif\" class=\"clan1\" alt=\"Fnatic\"><\/div><div class=\"matchpage-versus\">VS<\/div><div class=\"team-img-wrapper\"><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/Fnatic-92x92.jpg\" class=\"clan2\" alt=\"Fnatic\"><\/div><\/div><\/a><div class=\"m-info\"><div class=\"match_title\">Pro league semifinal<\/div><div class=\"date\">March 2, 2018, 12:12 am<\/div><div class=\"maplist\"><a id=\"mapspopover02\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/9.jpg#142x142\" title=\"cs_assault\">cs_assault<\/a>, <a id=\"mapspopover12\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/10.jpg#142x142\" title=\"de_aztec\">de_aztec<\/a>, <a id=\"mapspopover22\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/8.jpg#142x142\" title=\"de_dust2\">de_dust2<\/a>, <a id=\"mapspopover32\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/101.jpg#142x142\" title=\"de_train\">de_train<\/a><\/div><\/div><\/li><li  title=\"Dota final\" class=\"clanwar-item  match odd game-3 \"><div class=\"scores-wrapper\"><div class=\"scores loose\">28:34<\/div><\/div><a href=\"https:\/\/skywarriorthemes.com\/gameaddict\/matches\/dota-final\/\" title=\"Dota final\"><div class=\"matchimages\"><div class=\"team-img-wrapper\"><span class=\"overlay-link\"><\/span><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/gameaddict-92x92.jpg\" class=\"clan1\" alt=\"Fnatic\"><\/div><div class=\"matchpage-versus\">VS<\/div><div class=\"team-img-wrapper\"><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/Fnatic-92x92.jpg\" class=\"clan2\" alt=\"Fnatic\"><\/div><\/div><\/a><div class=\"m-info\"><div class=\"match_title\">Dota final<\/div><div class=\"date\">January 10, 2018, 9:07 pm<\/div><div class=\"maplist\"><a id=\"mapspopover03\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/2.jpg#142x142\" title=\"Monkey Island\">Monkey Island<\/a>, <a id=\"mapspopover13\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/3.jpg#142x142\" title=\"Outerspace\">Outerspace<\/a>, <a id=\"mapspopover23\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/1.jpg#142x142\" title=\"The tower\">The tower<\/a>, <a id=\"mapspopover33\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/7.jpg#142x142\" title=\"Waterworld\">Waterworld<\/a><\/div><\/div><\/li><li  title=\"Close quarters match\" class=\"clanwar-item  match even game-2 \"><div class=\"scores-wrapper\"><div class=\"scores win\">33:29<\/div><\/div><a href=\"https:\/\/skywarriorthemes.com\/gameaddict\/matches\/close-quarters-match\/\" title=\"Close quarters match\"><div class=\"matchimages\"><div class=\"team-img-wrapper\"><span class=\"overlay-link\"><\/span><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/gameaddict-92x92.jpg\" class=\"clan1\" alt=\"Aliance\"><\/div><div class=\"matchpage-versus\">VS<\/div><div class=\"team-img-wrapper\"><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/20130802064726a0djjwmz5u7mepzq1-92x92.gif\" class=\"clan2\" alt=\"Aliance\"><\/div><\/div><\/a><div class=\"m-info\"><div class=\"match_title\">Close quarters match<\/div><div class=\"date\">December 21, 2017, 1:57 am<\/div><div class=\"maplist\"><a id=\"mapspopover04\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/12.jpg#142x142\" title=\"Close quarters\">Close quarters<\/a>, <a id=\"mapspopover14\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/12.jpg#142x142\" title=\"Close quarters\">Close quarters<\/a>, <a id=\"mapspopover24\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/12.jpg#142x142\" title=\"Close quarters\">Close quarters<\/a>, <a id=\"mapspopover34\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/12.jpg#142x142\" title=\"Close quarters\">Close quarters<\/a><\/div><\/div><\/li><li  title=\"Junior League\" class=\"clanwar-item  match odd game-1 \"><div class=\"scores-wrapper\"><div class=\"scores draw\">0:0<\/div><\/div><a href=\"https:\/\/skywarriorthemes.com\/gameaddict\/matches\/junior-league\/\" title=\"Junior League\"><div class=\"matchimages\"><div class=\"team-img-wrapper\"><span class=\"overlay-link\"><\/span><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/Mymlogo1-92x92.jpg\" class=\"clan1\" alt=\"Aliance\"><\/div><div class=\"matchpage-versus\">VS<\/div><div class=\"team-img-wrapper\"><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/20130802064726a0djjwmz5u7mepzq1-92x92.gif\" class=\"clan2\" alt=\"Aliance\"><\/div><\/div><\/a><div class=\"m-info\"><div class=\"match_title\">Junior League<\/div><div class=\"date\">May 31, 2014, 12:55 am<\/div><div class=\"maplist\"><a id=\"mapspopover05\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/9.jpg#142x142\" title=\"cs_assault\">cs_assault<\/a>, <a id=\"mapspopover15\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/8.jpg#142x142\" title=\"de_dust2\">de_dust2<\/a>, <a id=\"mapspopover25\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/10.jpg#142x142\" title=\"de_aztec\">de_aztec<\/a>, <a id=\"mapspopover35\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/10.jpg#142x142\" title=\"de_aztec\">de_aztec<\/a><\/div><\/div><\/li><li  title=\"Game Addict vs Fnatic - Friendly\" class=\"clanwar-item  match even game-2 \"><div class=\"scores-wrapper\"><div class=\"scores draw\">0:0<\/div><\/div><a href=\"https:\/\/skywarriorthemes.com\/gameaddict\/matches\/aaaaaaa\/\" title=\"Game Addict vs Fnatic - Friendly\"><div class=\"matchimages\"><div class=\"team-img-wrapper\"><span class=\"overlay-link\"><\/span><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/gameaddict-92x92.jpg\" class=\"clan1\" alt=\"SK Gaming\"><\/div><div class=\"matchpage-versus\">VS<\/div><div class=\"team-img-wrapper\"><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/skgaming-92x92.png\" class=\"clan2\" alt=\"SK Gaming\"><\/div><\/div><\/a><div class=\"m-info\"><div class=\"match_title\">Game Addict vs Fnatic - Friendly<\/div><div class=\"date\">February 21, 2014, 12:12 am<\/div><div class=\"maplist\"><a id=\"mapspopover06\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/12.jpg#142x142\" title=\"Close quarters\">Close quarters<\/a>, <a id=\"mapspopover16\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/14.jpg#142x142\" title=\"Dragon pass\">Dragon pass<\/a>, <a id=\"mapspopover26\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/13.jpg#142x142\" title=\"Operation locker\">Operation locker<\/a>, <a id=\"mapspopover36\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/15.jpg#142x142\" title=\"Zavod 311\">Zavod 311<\/a><\/div><\/div><\/li><li  title=\"League of Legends - Sunday fun\" class=\"clanwar-item  match odd game-4 \"><div class=\"scores-wrapper\"><div class=\"scores win\">82:52<\/div><\/div><a href=\"https:\/\/skywarriorthemes.com\/gameaddict\/matches\/league-of-legends-sunday-fun\/\" title=\"League of Legends - Sunday fun\"><div class=\"matchimages\"><div class=\"team-img-wrapper\"><span class=\"overlay-link\"><\/span><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/skgaming-92x92.png\" class=\"clan1\" alt=\"mYm\"><\/div><div class=\"matchpage-versus\">VS<\/div><div class=\"team-img-wrapper\"><img src=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/Mymlogo1-92x92.jpg\" class=\"clan2\" alt=\"mYm\"><\/div><\/div><\/a><div class=\"m-info\"><div class=\"match_title\">League of Legends - Sunday fun<\/div><div class=\"date\">February 10, 2014, 9:23 pm<\/div><div class=\"maplist\"><a id=\"mapspopover07\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/4.jpg#142x142\" title=\"Mountain pass\">Mountain pass<\/a>, <a id=\"mapspopover17\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/31.jpg#142x142\" title=\"Thunder storm\">Thunder storm<\/a>, <a id=\"mapspopover27\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/11.jpg#142x142\" title=\"The tower\">The tower<\/a>, <a id=\"mapspopover37\" href=\"https:\/\/skywarriorthemes.com\/gameaddict\/wp-content\/uploads\/2014\/01\/6.jpg#142x142\" title=\"The coast\">The coast<\/a><\/div><\/div><\/li><\/ul><div class=\"wp-clanwars-pagination clearfix\"><span class=\"displaying-num\">Displaying 1&#8211;8 of <span class=\"total-type-count\">8<\/span><\/span><br><\/div>\n","protected":false},"excerpt":{"rendered":"Matches AllBF4CS:GODota 2LoLSF start in 1105 daysVSSnipers only 5v5February 16, 2025, 2:10 amDragon pass, Zavod 311, Dragon pass, Zavod 31141:45VSDota 2 friendlyJanuary 21, 2019, 1:56 amMonkey Island, Monkey Island, The tower, Waterworld0:0VSPro league semifinalMarch 2, 2018, 12:12 amcs_assault, de_aztec, de_dust2, [...]","protected":false},"author":1,"featured_media":0,"parent":0,"menu_order":0,"comment_status":"open","ping_status":"open","template":"","meta":{"_bbp_topic_count":0,"_bbp_reply_count":0,"_bbp_total_topic_count":0,"_bbp_total_reply_count":0,"_bbp_voice_count":0,"_bbp_anonymous_reply_count":0,"_bbp_topic_count_hidden":0,"_bbp_reply_count_hidden":0,"_bbp_forum_subforum_count":0},"_links":{"self":[{"href":"https:\/\/skywarriorthemes.com\/gameaddict\/wp-json\/wp\/v2\/pages\/1276"}],"collection":[{"href":"https:\/\/skywarriorthemes.com\/gameaddict\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"https:\/\/skywarriorthemes.com\/gameaddict\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"https:\/\/skywarriorthemes.com\/gameaddict\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/skywarriorthemes.com\/gameaddict\/wp-json\/wp\/v2\/comments?post=1276"}],"version-history":[{"count":0,"href":"https:\/\/skywarriorthemes.com\/gameaddict\/wp-json\/wp\/v2\/pages\/1276\/revisions"}],"wp:attachment":[{"href":"https:\/\/skywarriorthemes.com\/gameaddict\/wp-json\/wp\/v2\/media?parent=1276"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}

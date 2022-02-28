@@ -1,5 +1,8 @@
 # GameAddict ZnoteAAC
 ========
+Download it from the Thread: https://opengamescommunity.com/index.php?resources/game-addict-znoteaac-theme.598/
+Because some files cannot be pushed on GitHub.
+
 ### Compatibility
 
 All TFS and OTX server compatible.

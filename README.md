@@ -2,6 +2,8 @@
 
 Download it from the Thread: https://opengamescommunity.com/index.php?resources/game-addict-znoteaac-theme.598/
 Because some files cannot be pushed on GitHub.
+Also there is a new Update for this Theme, im pretty sure you will see an infinity loop loading page,
+while has been fixed here: https://opengamescommunity.com/index.php?resources/game-addict-znoteaac-theme.598/
 
 ### Compatibility
 
